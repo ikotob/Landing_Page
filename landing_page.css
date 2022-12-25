@@ -1,0 +1,35 @@
+body{
+  margin: 0;
+  min-height: 100vh;
+}
+
+.Section_1,
+.Header{
+    background-color: #1F2937;
+    padding: 0;
+    margin-bottom: 0;
+}
+
+ul{
+    list-style-type: none;
+}
+a{
+    color: #e5e7eb;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.Logo{
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.Hero_main{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+.Hero_secondary{
+    font-size: 18px;
+    color: #e5e7eb;
+}
