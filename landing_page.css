@@ -8,12 +8,18 @@ body{
 .Section_1,
 .Header{
     background-color: #1F2937;
-    padding: 50px;
 }
 
 .Header{
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    padding: 0px 50px;
+}
+
+.Section_1{
+    padding: 50px;
+
 }
 
 ul{
