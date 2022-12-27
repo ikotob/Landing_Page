@@ -15,11 +15,13 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0px 50px;
+    padding: 0px 150px;
 }
 
 .Section_1{
-    padding: 50px;
+    padding: 150px;
+    display: flex;
+    justify-content: space-between;
 
 }
 
@@ -64,4 +66,20 @@ a{
     align-items: center;
     border-radius: 10px;
     margin: 10px 0px;
+}
+
+.Hero_Img{
+    width: 400px;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+.Left_section{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 450px;
 }
