@@ -86,3 +86,12 @@ img{
     align-items: flex-start;
     width: 450px;
 }
+
+.Info_header{
+    display: flex;
+    justify-content: center;
+    padding: 32px;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
