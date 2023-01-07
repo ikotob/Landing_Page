@@ -95,3 +95,8 @@ img{
     font-weight: bolder;
     color: #1F2937;
 }
+
+.Info_text{
+    display: flex;
+    justify-content: space-between;
+}
