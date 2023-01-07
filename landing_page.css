@@ -97,6 +97,15 @@ img{
 }
 
 .Info_text{
+    padding: 32px;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+
+}
+
+.Info{
+    padding: 16px;
+    margin: 16px;
+    width: 150px;
+    text-align: center;
 }
