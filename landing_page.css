@@ -130,3 +130,38 @@ img{
 .Signature{
     text-align: center;
 }
+
+.Section_4{
+    margin: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.cta{
+    color: white;
+    font-size: 16px;
+    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    background-color: #3882f6;
+    height: 150px;
+}
+
+.Button_2{
+    display: block;
+    display: flex;
+    color: white;
+    border: 1px solid white;
+    width: 110px;
+    height: 35px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    margin-right: 100px;
+}
+
+.left{
+    padding: 150px;
+}
