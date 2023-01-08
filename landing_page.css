@@ -104,7 +104,29 @@ img{
 
 .Info{
     padding: 16px;
-    margin: 16px;
-    width: 150px;
+    margin: 8px;
+    width: 250px;
+    text-align: center;
+}
+
+.Section_3{
+    background-color: #e5e7eb;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.Quote{
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+    text-align: center;
+}
+
+.Signature{
     text-align: center;
 }
